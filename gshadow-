@@ -17,7 +17,7 @@ fax:*::
 voice:*::
 cdrom:*::administrator
 floppy:*::
-tape:*::
+tape:*::bacula
 sudo:*::administrator
 audio:*::
 dip:*::administrator
@@ -55,3 +55,8 @@ landscape:!::
 lxd:!::administrator
 systemd-coredump:!!::
 administrator:!::
+sssd:!::
+bacula:!::
+ssl-cert:!::postgres
+postgres:!::
+postfix:!::

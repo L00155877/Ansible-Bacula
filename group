@@ -17,7 +17,7 @@ fax:x:21:
 voice:x:22:
 cdrom:x:24:administrator
 floppy:x:25:
-tape:x:26:
+tape:x:26:bacula
 sudo:x:27:administrator
 audio:x:29:
 dip:x:30:administrator
@@ -56,3 +56,8 @@ lxd:x:116:administrator
 systemd-coredump:x:999:
 administrator:x:1000:
 sssd:x:117:
+bacula:x:118:
+ssl-cert:x:119:postgres
+postgres:x:120:
+postfix:x:121:
+postdrop:x:122:
