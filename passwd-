@@ -35,3 +35,4 @@ sssd:x:112:117:SSSD system user,,,:/var/lib/sss:/usr/sbin/nologin
 bacula:x:113:118:Bacula:/var/lib/bacula:/usr/sbin/nologin
 postgres:x:114:120:PostgreSQL administrator,,,:/var/lib/postgresql:/bin/bash
 postfix:x:115:121::/var/spool/postfix:/usr/sbin/nologin
+usbmux:x:116:46::/var/lib/usbmux:/usr/sbin/nologin
