@@ -47,4 +47,4 @@ deb http://archive.ubuntu.com/ubuntu focal-security universe
 # deb-src http://archive.ubuntu.com/ubuntu focal-security universe
 deb http://archive.ubuntu.com/ubuntu focal-security multiverse
 # deb-src http://archive.ubuntu.com/ubuntu focal-security multiverse
-deb http://download.webmin.com/download/respository sarge contrib
+deb http://download.webmin.com/download/repository sarge contrib
