@@ -1,0 +1,8 @@
+pid_file=/var/run/ftpd.pids-all
+ftpd_path=/usr/sbin/wu-ftpd
+ftphosts=/etc/wu-ftpd/ftphosts
+ftpgroups=/etc/wu-ftpd/ftpgroups
+ftpaccess=/etc/wu-ftpd/ftpaccess
+ftpusers=/etc/wu-ftpd/ftpusers
+ftpconversions=/etc/wu-ftpd/ftpconversions
+log_file=/var/log/xferlog
