@@ -1,6 +1,6 @@
 samba=0
 exports=0
-telnet=1
+telnet=0
 cpan=1
 cluster-cron=1
 cluster-passwd=1
@@ -92,7 +92,7 @@ iscsi-server=0
 stunnel=0
 sshd=1
 ldap-server=0
-mysql=0
+mysql=1
 proftpd=0
 htaccess-htpasswd=1
 qmailadmin=0

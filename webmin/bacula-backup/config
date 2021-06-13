@@ -1,12 +1,12 @@
 btape=btape
 driver=mysql
 showdirs=0
-pass=Llseha.49
+pass=llseha.49
 bls=bls
 init_start=0
 bacula_dir=/etc/bacula
-user=bacula
-db=bacula
+user=root
+db=mysql
 wait=1
 bextract=bextract
 apply=1
