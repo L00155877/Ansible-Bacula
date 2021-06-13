@@ -1,12 +1,12 @@
 btape=btape
-driver=Pg
+driver=mysql
 showdirs=0
-pass=llseha.49
+pass=Llseha.49
 bls=bls
 init_start=0
 bacula_dir=/etc/bacula
 user=bacula
-db=bacula-director-pgsql
+db=bacula
 wait=1
 bextract=bextract
 apply=1
