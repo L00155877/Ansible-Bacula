@@ -62,3 +62,4 @@ postgres:x:120:
 postfix:x:121:
 postdrop:x:122:
 mysql:x:123:
+ntp:x:124:

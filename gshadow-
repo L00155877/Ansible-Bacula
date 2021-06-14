@@ -61,3 +61,4 @@ ssl-cert:!::postgres
 postgres:!::
 postfix:!::
 postdrop:!::
+mysql:!::
