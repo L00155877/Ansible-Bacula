@@ -30,9 +30,9 @@
 
 # Ex 3: A collection of database servers in the 'dbservers' group
 
-#[dbservers]
-#
-#db01.intranet.mydomain.net
+[dbservers]
+
+db01.l00155877.lyit
 #db02.intranet.mydomain.net
 #10.25.1.56
 #10.25.1.57
@@ -41,4 +41,6 @@
 # leading 0s:
 
 #db-[99:101]-node.example.com
+
+[prd-servers]
 
