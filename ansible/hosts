@@ -32,7 +32,8 @@
 
 [dbservers]
 
-db01.l00155877.lyit
+172.18.68.3
+
 #db02.intranet.mydomain.net
 #10.25.1.56
 #10.25.1.57
@@ -42,5 +43,9 @@ db01.l00155877.lyit
 
 #db-[99:101]-node.example.com
 
-[prd-servers]
+[prdservers]
 
+172.18.68.1
+172.18.68.2
+172.18.68.3
+172.18.68.5
