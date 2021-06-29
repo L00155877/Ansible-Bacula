@@ -21,6 +21,9 @@
 -A ufw-user-input -p tcp --dport 9103 -j ACCEPT
 -A ufw-user-input -p udp --dport 9103 -j ACCEPT
 
+### tuple ### allow tcp 1901 0.0.0.0/0 any 0.0.0.0/0 in
+-A ufw-user-input -p tcp --dport 1901 -j ACCEPT
+
 ### END RULES ###
 
 ### LOGGING ###
